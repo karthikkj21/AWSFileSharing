@@ -8,9 +8,9 @@ import time
 
 app = Flask(__name__)
 
-S3_BUCKET_USER = "workshop-file-share-vachanmn"
+S3_BUCKET_USER = "workshop-file-share-karthikkj"
 DYNAMODB_TABLE_USER = "FileLinks"
-AWS_ACCOUNT_ID = "841162670179"
+AWS_ACCOUNT_ID = "028425946485"
 AWS_REGION_USER = "ap-south-1"
 SNS_TOPIC_USER = "FileUploadNotifications"
 
